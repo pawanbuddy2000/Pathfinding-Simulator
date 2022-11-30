@@ -442,21 +442,6 @@ export default class PathfindingVisualizer extends Component {
           onClick={() => this.visualize('DFS')}>
           Depth First Search
         </button>
-        {this.state.isDesktopView ? (
-          <button
-            type="button"
-            className="btn btn-light"
-            onClick={() => this.toggleView()}>
-            Mobile View
-          </button>
-        ) : (
-          <button
-            type="button"
-            className="btn btn-dark"
-            onClick={() => this.toggleView()}>
-            Desktop View
-          </button>
-        )}
         <table
           className="grid-container"
           onMouseLeave={() => this.handleMouseLeave()}>
