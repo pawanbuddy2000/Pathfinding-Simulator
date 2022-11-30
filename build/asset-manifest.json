@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pathfinding-Simulator/static/css/main.26563b9a.css",
+    "main.js": "/Pathfinding-Simulator/static/js/main.1473e146.js",
+    "static/js/787.c455c4f5.chunk.js": "/Pathfinding-Simulator/static/js/787.c455c4f5.chunk.js",
+    "index.html": "/Pathfinding-Simulator/index.html",
+    "main.26563b9a.css.map": "/Pathfinding-Simulator/static/css/main.26563b9a.css.map",
+    "main.1473e146.js.map": "/Pathfinding-Simulator/static/js/main.1473e146.js.map",
+    "787.c455c4f5.chunk.js.map": "/Pathfinding-Simulator/static/js/787.c455c4f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26563b9a.css",
+    "static/js/main.1473e146.js"
+  ]
+}
